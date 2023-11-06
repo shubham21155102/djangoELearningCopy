@@ -6,4 +6,4 @@ pip3 install -r requirements.txt
 python3 manage.py makemigrations
 python3 manage.py migrate
 python3 manage.py runserver
-
+main link : https://docs.djangoproject.com/en/4.2/intro/tutorial01/
