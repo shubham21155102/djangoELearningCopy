@@ -1,6 +1,7 @@
 ### Installation GuideLine
 
 ```python3
+python3 -m venv shubham
 source shubham/bin/activate
 sudo apt install libjpeg-dev zlib1g-dev
 sudo apt-get install pkg-config libmysqlclient-dev
